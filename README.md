@@ -1,2 +1,2 @@
-### ansh1204.github.io
+### AnshJain.github.io
 Personal Website
